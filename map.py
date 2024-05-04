@@ -1,4 +1,4 @@
-from CONFIG import TILE,PESOCHNUYYLOGO_COORDS
+from CONFIG import TILE
 textmap = [["W", "W", "W", "W"],
            ["W", "", ".", "W"],
            ["", ".", ".", "W"],
