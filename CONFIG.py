@@ -14,4 +14,3 @@ RAY_MAX_LENGHT = 1000 #when program reaches this length, it stops raytracing
 RECT_WIDTH = WIDTH / 10
 #world parameters
 TILE = 20 #size of tile's side
-PESOCHNUYYLOGO_COORDS = [37, 42, 39, 44]
